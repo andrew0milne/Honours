@@ -1,0 +1,38 @@
+-----------------------
+--Monday-21st-January--
+-----------------------
+Meeting with supervisor (Grant Clarke)
+- It was short, I'd not done much over christmas
+
+Work For Next Week
+- I will hopefully get my markov chains working for midi songs
+- If not getting the midi data read in into untity and in a usable format
+
+
+-------------------------
+--Thursday-24th-January--
+-------------------------
+Todays task; 
+- Will be to read in a midi file and get the appropriate data, such as;
+	- Pitch
+	- Length
+	- Where in the song the note start
+
+Work Done
+- Tried several librarys, got NAudio to work
+- Managed to read in midi info and get the relevent info
+- Unfortunatly NAudio doesnt let you directly access a notes length
+- Had to do some janky string parsing to get note length, seems like a flaw in NAudio, banter
+
+-----------------------
+--Friday-25th-January--
+-----------------------
+Today's Task
+- To change the code so I can just tell unity the file name
+  This will allow my application to work on different computers, 
+  and I dont need to write out the entire path for the midi files
+
+Work Done
+- Got it working so you just need to supply the file name
+- It now stores the each note's information in a struct, and holds them all in an array of lists
+- It also now shows a basic midi visualiser

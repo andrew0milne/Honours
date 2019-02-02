@@ -1,0 +1,58 @@
+-----------------------
+--Monday-28th-January--
+-----------------------
+Previous Weeks Work
+- Did not get the markov chain implemented, due to the Global Game Jam happening over the weekend
+- Although the midi data is in a usable form now
+
+Meeting with Grant
+- He was glad I actually showed him something this week
+
+Work For Next Week
+- Markoc chain working (PRIOTIRY)
+- To have made a start on the rule based system
+----------------------
+
+Work Done
+- Added function which adds rests, as a midi event, into the list of midi notes
+-- So the Markov chain can analyse the music including rests
+
+- Now calculates the frequency distribution of notes (including rests)
+
+-------------------------
+--Thursday-31st-January--
+-------------------------
+Todays task: 
+- Redo the frequency distribution calcualtion
+- Get simple markov chain working
+
+Work Done
+- Redid frequency distribution
+-- The origonal way I had implemented it made creating a markov chain 
+   from it impossible, as the data was not ordered in any useful way
+- Implemented markov chain, it now produces music, terrible music, but music none the less	
+
+
+------------------------
+---Friday-1st-Febuary---
+------------------------
+Todays task: 
+- Tidy up the Unity Scene
+
+
+Work Done
+- Tidied up the Unity scene and started prototyping some new puzzle mechanics for the game
+
+--------------------------
+---Saturday-2nd-Febuary---
+--------------------------
+Todays task; 
+- Start Dissertation 
+-- Set up the word doc
+
+Work Done
+- Set up the dissertation document
+-- With all the main headings I will need
+-- Added it to a github repository, dont really want to loose my dissertation
+	
+	
