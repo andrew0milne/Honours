@@ -46,13 +46,26 @@ Work Done
 --------------------------
 ---Saturday-2nd-Febuary---
 --------------------------
-Todays task; 
+Todays task:
 - Start Dissertation 
 -- Set up the word doc
 
-Work Done
+Work Done:
 - Set up the dissertation document
 -- With all the main headings I will need
 -- Added it to a github repository, dont really want to loose my dissertation
+
+Reading Done:
+- Algorithmic Composition - Paradigms of Automated Music Generation
+-- https://link-springer-com.libproxy.abertay.ac.uk/book/10.1007%2F978-3-211-75540-2
+-- https://link-springer-com.libproxy.abertay.ac.uk/content/pdf/10.1007%2F978-3-211-75540-2.pdf
+-- Covers many different forms of algorithmic composition, further reading will detemine which ones
+   will be useful for my project
+
+- Investigating Perceived Emotional Correlates of Rhythmic Density in Algorithmic Music Composition
+-- https://dl-acm-org.libproxy.abertay.ac.uk/citation.cfm?doid=2798084.2749466
+-- http://delivery.acm.org.libproxy.abertay.ac.uk/10.1145/2750000/2749466/a8-williams.pdf?ip=193.60.169.34&id=2749466&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2E42BFACAD77C85A68%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1549129553_167fce1f26a0af1b497913f9f794f60b
+
+
 	
 	
