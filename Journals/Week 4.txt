@@ -1,0 +1,20 @@
+----------------------
+--Monday-4th-Febuary--
+----------------------
+Meeting with supervisor (Grant Clarke)
+- 
+
+Work For Next Week
+- 
+
+Todays task; 
+- Combine the Markov stuff with my origonal random music generator
+- Start work on the rule system
+
+Work Done
+- Combined Markov stuff with the origonal random music generator
+-- Can now play forever, in theory
+-- Also plays the notes in time with a preset bpm
+-- This will allow the code to control this with the rule system, when this is implemented
+
+
