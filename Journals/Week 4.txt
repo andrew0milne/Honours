@@ -14,7 +14,7 @@ Todays task;
 Work Done
 - Combined Markov stuff with the origonal random music generator
 -- Can now play forever, in theory
--- Also plays the notes in time with a preset bpm
+-- Also plays the notes in time with a preset bpm, ish
 -- This will allow the code to control this with the rule system, when this is implemented
 
 
