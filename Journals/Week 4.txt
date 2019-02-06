@@ -10,7 +10,7 @@ Todays task:
 - Combine the Markov stuff with my origonal random music generator
 - Start work on the rule system
 
-Work Done
+Work Done:
 - Combined Markov stuff with the origonal random music generator
 -- Can now play forever, in theory
 -- Also plays the notes in time with a preset bpm, ish
@@ -22,22 +22,43 @@ Work Done
 Todays task:
 - Continue working on Markovs
 
-Work Done
+Work Done:
 - Added functionality to play chords, based on the current note and key, still sounds awful :ok_hand:
 - Added function to specific chords based in the current chord
+
+Reading Done:
+Exploring Common Chord Progressions
+https://www.musical-u.com/learn/exploring-common-chord-progressions/
+
+Ultimate guid to the Circle of Fifths
+https://www.musical-u.com/learn/how-to-use-circle-fifths/
 
 -------------------------
 --Wednesday-6th-Febuary--
 -------------------------
-Meeting with Grant
-- 
+Meeting with Grant (Assessed Progress Check)
+- Went well (i think)
+-- Grant is happy with my progress (and would be happy with it even if i had initially chosen this 
+   project as my starting one, yass)
 
 Work For Next Week
-- 
+- Moer rulez
 ----------------------
 
 Todays task:
-- 
+- Fix code (accidently broke it when implementing the chord progressions)
 
 Work Done
+- Fixed it, now allows to toggle between chords and markov
+- Markov now accepts chords
+- Also fixed (ish) the chord progression bit, as i was telling it the wrong numbers
+
+-----------------------
+--Thursday-7th-Febuary-
+-----------------------
+Todays task:
+- Chord Progression may not be playing exactly the right notes, check/fix this
+
+Work Done:
 - 
+
