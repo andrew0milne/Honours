@@ -1,0 +1,29 @@
+----------------------
+--Sunday-10th-Febuary--
+----------------------
+Todays task:
+- Implement prototype movement mechanic
+
+Work Done:
+- Implemented basic character controller
+-- Movement/Jumping
+-- Player can change which way their gravity points
+
+
+----------------------
+--Monday-11th-Febuary--
+----------------------
+Previous Weeks Work
+- 
+----------------------
+
+Todays task:
+Mechanics
+- Look into better ways to make the player rotate when the reorient themselves
+
+Music
+- Make a chord progression, save then loop it
+- Generate notes from markov, then make then be in the correct key/chord 
+
+Work Done:
+- 
