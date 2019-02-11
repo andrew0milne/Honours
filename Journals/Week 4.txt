@@ -60,5 +60,23 @@ Todays task:
 - Chord Progression may not be playing exactly the right notes, check/fix this
 
 Work Done:
+- Fixed the chord progression, I was calculating the root note of the chords wrong so they were all just major chords
+- Started note taking for dissertation introduction
+
+Reading (watching):
+Sideways
+https://www.youtube.com/channel/UCi7l9chXMljpUft67vw78qw/videos
+
+Has several vids about the problem with composing video game music, and composing generally
+
+
+----------------------
+--Friday-8th-Febuary--
+----------------------
+Todays task:
+- Allow appropriate chords to play at the same time as markov music
+
+Work Done:
 - 
+
 
