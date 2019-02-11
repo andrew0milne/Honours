@@ -77,6 +77,18 @@ Todays task:
 - Allow appropriate chords to play at the same time as markov music
 
 Work Done:
-- 
+- Got this working, although it doesn't sound nice, will have to rethink how I do this
+
+----------------------
+--Sunday-10th-Febuary--
+----------------------
+Todays task:
+- Implement prototype movement mechanic
+
+Work Done:
+- Implemented basic character controller
+-- Movement/Jumping
+-- Player can change which way their gravity points
+
 
 

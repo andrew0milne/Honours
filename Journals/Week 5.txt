@@ -1,18 +1,6 @@
-----------------------
---Sunday-10th-Febuary--
-----------------------
-Todays task:
-- Implement prototype movement mechanic
-
-Work Done:
-- Implemented basic character controller
--- Movement/Jumping
--- Player can change which way their gravity points
-
-
-----------------------
---Monday-11th-Febuary--
-----------------------
+-------------------------
+--Thursday-12th-Febuary--
+-------------------------
 Previous Weeks Work
 - 
 ----------------------
