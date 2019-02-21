@@ -1,0 +1,35 @@
+-----------------------
+--Monday-18th-Febuary--
+-----------------------
+Meeting with Grant
+- Grant missed the meeting as he got held up
+- Meeting moved to Wednesday
+
+Todays task:
+Music
+- Continue working on combinging chords and markov
+
+Work Done:
+- Got it to start on the correct note (based on the chord)
+
+
+
+--------------------------
+--Wednesday-20th-Febuary--
+--------------------------
+Meeting with Grant
+- Went well, Grant is happy with my progress
+- Showed me this --> https://www.youtube.com/watch?reload=9&v=dsxh1DTdULs
+-- About the making of 'God of War', talks about the music comp
+- Talked about future of project
+-- Will alter generated themes on the fly, depending on how the game plays (thematic elements)
+-- Could have composer input a precomposed theme, then the program will then alter this as need be
+-- Procedural Content is best when directed by human made content
+
+
+Todays task:
+Music
+- Make the markov and chords work together (hopefully)
+
+Work Done:
+- 

@@ -31,10 +31,24 @@ Work Done:
 -------------------------
 
 Todays task:
+- Make test area to see how the game may look
+
+Work Done:
+- Made a test level
+- Loaded in some models from Mixamo.com for the enemys
+
+
+-------------------------
+--Saturday-16th-Febuary--
+-------------------------
+
+Todays task:
 Music
 - Make a chord progression, save then loop it
 - Generate notes from markov, then make then be in the correct key/chord 
 
 Work Done:
+- Made a loopable chord progression, based of music theory period structure
+- Started integrating this into markov
 
 
