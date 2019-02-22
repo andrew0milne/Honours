@@ -12,8 +12,6 @@ Music
 Work Done:
 - Got it to start on the correct note (based on the chord)
 
-
-
 --------------------------
 --Wednesday-20th-Febuary--
 --------------------------
@@ -26,10 +24,34 @@ Meeting with Grant
 -- Could have composer input a precomposed theme, then the program will then alter this as need be
 -- Procedural Content is best when directed by human made content
 
-
 Todays task:
 Music
 - Make the markov and chords work together (hopefully)
 
 Work Done:
-- 
+Music:
+- Not quite there yet, added it so it will check what chord is playing and alter the melody to fit
+
+--------------------------
+--Thursday-21st-Febuary--
+--------------------------
+Todays task:
+- Work on the level design
+
+Work Done:
+Game:
+- Extended the level to include a control centre and the temple entrance
+
+
+--------------------------
+--Friday-22nd-Febuary--
+--------------------------
+Todays task:
+Music
+- Make the markov and chords work together
+
+Work Done:
+Music:
+- IT WORKS!!!!!!!!!
+- Forgot to convert it to the correct key before I checked the chord progression, woops
+
