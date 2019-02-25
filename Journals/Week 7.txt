@@ -1,0 +1,16 @@
+-----------------------
+--Monday-25th-Febuary--
+-----------------------
+Meeting with Grant
+- 
+
+Todays task:
+Week 7 Progress Check:
+- Write up the slide
+
+Music:
+- Implement a fix so the tempo can be changed as a song is played
+
+Work Done:
+- 
+
