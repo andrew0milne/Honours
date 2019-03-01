@@ -23,7 +23,7 @@ Mechanics:
 - Look into the turning again
 
 Work Done:
-- Change the reorient script to work different when you go straigh up
+- Change the reorient script to work different when you go straight up
 
 
 -------------------------
