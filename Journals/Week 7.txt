@@ -19,9 +19,19 @@ Dissertation:
 - Plan out the different sections
 
 Work Done:
-- 
+- Planned out intro
 
 
 https://experiments.withgoogle.com/collection/ai
 https://magenta.tensorflow.org/performance-rnn
 https://magenta.tensorflow.org/music-transformer
+
+-----------------------
+--Friday-29th-Febuary--
+-----------------------
+Todays task:
+Dissertation:
+- Expand on intro
+
+Work Done:
+- Wrote more
