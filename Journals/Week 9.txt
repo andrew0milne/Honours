@@ -1,0 +1,35 @@
+---------------------
+--Monday-11th-March--
+---------------------
+Meeting with Grant
+- Discussed firt draft introduction for next week's meeting
+
+Todays task:
+- Integrate Wwise into Unity project
+- Flesh out lit review more
+
+Work Done:
+- Tried Wwise integration, didn't work as the version of wwise on my laptop is different and I cant integrate it on the uni comps
+- Will try again later
+
+-----------------------
+--Friday-15th-March--
+-----------------------
+
+Todays task:
+- Rewrite aims
+- Notes for lit review
+
+Work Done:
+- Rewrote aims
+- Wrote introduction/overwiew for lit review
+
+-----------------------
+--Saturday-16th-March--
+-----------------------
+
+Todays task:
+- 
+
+Work Done:
+- 

@@ -2,13 +2,8 @@
 --Monday-4th-March--
 --------------------
 Meeting with Grant
-- 
+- Will complete a firt draft introduction for next week's meeting
 
-Todays task:
-- 
-
-Work Done:
-- 
 
 ---------------------
 --Tuesday-5th-March--
@@ -26,16 +21,6 @@ http://igordallavanzi.wixsite.com/gamenoise
 https://www.youtube.com/watch?v=gZ1w_SAlFbE&list=RDgZ1w_SAlFbE
 http://www.intelligentmusicsystems.com/
 
-
-
-https://www.youtube.com/watch?v=nUWFTLhZ1ro
-https://www.gdcvault.com/play/1023215/Real-time-Procedural-Percussion-Scoring
-https://www.gdcvault.com/play/1017670/Audio-Bootcamp-Producing-Music-for
-
-
-https://www.gdcvault.com/play/323/Procedural-Music-in
-
-
 Big book of papers:
 https://link.springer.com/book/10.1007/978-3-319-55750-2
 
@@ -44,3 +29,51 @@ https://virtualworldofmusic.weebly.com/uploads/4/2/5/0/42509489/writing_interact
 
 Midi Archive:
 https://www.vgmusic.com/
+
+-----------------------
+--Wednesday-6th-March--
+-----------------------
+Todays task:
+- Lit review research
+
+Work Done:
+- More reading
+
+https://www.youtube.com/watch?v=nUWFTLhZ1ro
+- Difficult to know exactly what will happen in a game at any one moment
+- Adaptablitity - can change as need
+- Not enough resources to create all sounds
+
+- no man sky is NOT creating new music, uses many premade assests (37:27)
+
+
+https://www.gdcvault.com/play/1023215/Real-time-Procedural-Percussion-Scoring
+- Rise of the tomb raider is premade music with procedural drums
+- 'Classic' style of music changing
+
+- Daniel brown - intelligent music systems
+
+
+https://www.gdcvault.com/play/1017670/Audio-Bootcamp-Producing-Music-for
+https://www.gdcvault.com/play/323/Procedural-Music-in
+
+----------------------
+--Thursday-7th-March--
+----------------------
+Todays task:
+- Work on Introduction
+
+Work Done:
+- Expanded the notes
+
+
+--------------------
+--Friday-8th-March--
+--------------------
+Todays task:
+- Finish first draft of introduction
+
+Work Done:
+- Finished first draft of intro and sent it so Grant
+
+COULD ADD THE CHORD PROGRESSION AS A SEPERATE MUSIC MIDI INPUT
