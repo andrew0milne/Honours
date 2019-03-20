@@ -29,7 +29,7 @@ Work Done:
 -----------------------
 
 Todays task:
-- 
+- Work on lit review
 
 Work Done:
-- 
+- Wrote section on neural networks

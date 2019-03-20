@@ -1,0 +1,22 @@
+---------------------
+--Monday-18th-March--
+---------------------
+Meeting with Grant
+- Discussed firt draft of lit review
+
+Todays task:
+- Work on lit review
+
+Work Done:
+- Wrote sections on Markov Chains
+
+------------------------
+--Wednesday-20th-March--
+------------------------
+
+Todays task:
+- Work on lit review
+
+Work Done:
+- Added section on markov generated music
+
