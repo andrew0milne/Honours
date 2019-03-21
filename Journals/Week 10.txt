@@ -20,3 +20,14 @@ Todays task:
 Work Done:
 - Added section on markov generated music
 
+-----------------------
+--Thursday-21th-March--
+-----------------------
+
+Todays task:
+- Work on lit review
+
+Work Done:
+- Added section on EDPGC
+- Added section on swarm algo
+
