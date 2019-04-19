@@ -1,0 +1,30 @@
+----------------------------------
+--Monday-1st-To-Friday-5th-April--
+----------------------------------
+
+To Do
+- Find out what is broken
+
+Work Done:
+- I have no idea why it is broken
+
+----------------------
+--Saturday-6th-April--
+----------------------
+
+To Do
+- Find out what is broken
+
+Work Done:
+- The MIDI file got corrupted, my code was working
+- GOD DAMN IT
+
+----------------------
+--Sunday-7th-April--
+----------------------
+
+To Do
+- Research music theory about musical brightness
+
+Work Done:
+- Found a paper on spectrul centroids

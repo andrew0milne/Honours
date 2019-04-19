@@ -1,0 +1,46 @@
+---------------------
+--Monday-25th-March--
+---------------------
+
+Meeting with Grant
+- Need to add more detail about how markov chains and EDPGC work
+
+Todays task:
+- Try to fix timing issue
+
+Work Done:
+- Did not fix it :(
+
+
+----------------------
+--Tuesday-26th-March--
+----------------------
+
+Todays task:
+- Expand markov section
+
+Work Done:
+- Added more info to the markov section, as per feedback from grant
+
+
+------------------------
+--Wednesday-27th-March--
+------------------------
+
+Todays task:
+- FIX TIMING ISSUE
+
+Work Done:
+- Fixed the issue
+- Added a intesity value to music, it can now dynamically increase the amount of notes in a melody
+
+
+-----------------------
+--Thursday-28th-March--
+-----------------------
+
+Todays task:
+- Find out what is broken
+
+Work Done:
+- Nope

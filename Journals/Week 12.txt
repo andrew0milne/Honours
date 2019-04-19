@@ -1,0 +1,119 @@
+---------------------
+--Monday-15th-April--
+---------------------
+
+To Do
+- Continued work on game
+
+Work Done:
+- Added mini map
+- Added pickups
+- Added Robots enemies
+- Added game controller 
+- Added laser grids
+
+
+----------------------
+--Tuesday-16th-April--
+----------------------
+
+To Do
+- Continued work on game
+
+Work Done:
+- Added the teleporters
+- Added death respawn
+- Added scripted animation to the pickups
+
+- Got some peers to play test the game, they gave feedback
+-- Not enough light
+-- Difficult to know when the game state changes
+
+
+----------------------
+--Wednesday-17th-April--
+----------------------
+
+To Do
+- Continued work on game
+- Improve lit review and send to Grant
+
+Work Done:
+- Implemented feedback
+-- Added more lights
+-- Added gamestate specific lights that can change colour
+
+- Improved lit review and sent to Grant
+
+
+----------------------
+--Thurday-18th-April--
+----------------------
+
+To Do
+- Continued work on game
+
+Work Done:
+- Added sound effects to the game
+
+
+Laser
+https://freesound.org/people/kev_durr/sounds/396470/
+https://freesound.org/people/bolkmar/sounds/420364/
+
+
+Portal
+https://freesound.org/people/spookymodem/sounds/249817/
+https://freesound.org/people/RICHERlandTV/sounds/216089/
+
+
+Robot Voices
+https://lingojam.com/RobotVoiceGenerator
+
+
+Alarm
+https://freesound.org/people/Mozfoo/sounds/464381/
+
+
+Announcer
+https://freesound.org/people/freeicecream12@gmail.com/sounds/222686/
+https://freesound.org/people/freeicecream12@gmail.com/sounds/169206/
+https://freesound.org/people/freeicecream12@gmail.com/sounds/169209/
+
+
+---------------------
+--Friday-19th-April--
+---------------------
+
+To Do
+- Add functionaliy for the game to track intensity and valence
+- Update the methods
+
+
+Work Done:
+- Wrote the methods for how the game effecs the music
+- FIGURED OUT WHY MUSIC SOUNDED RANDOM
+- Made it so the CleanUp() function only makes a rest if its length is above a specified number
+- Game controller now tracks the various variables to create the intensity and valence
+- Added UI outputs for these
+- Added option to not use the structed music 
+
+
+---------------------
+--Saturday-20th-April--
+---------------------
+
+To Do
+- Add functionaliy for the intensity and valence to change to music
+- Update the methods
+
+
+
+
+
+
+
+
+
+
+
