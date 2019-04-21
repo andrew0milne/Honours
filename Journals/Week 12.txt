@@ -2,7 +2,7 @@
 --Monday-15th-April--
 ---------------------
 
-To Do
+To Do:
 - Continued work on game
 
 Work Done:
@@ -17,7 +17,7 @@ Work Done:
 --Tuesday-16th-April--
 ----------------------
 
-To Do
+To Do:
 - Continued work on game
 
 Work Done:
@@ -34,7 +34,7 @@ Work Done:
 --Wednesday-17th-April--
 ----------------------
 
-To Do
+To Do:
 - Continued work on game
 - Improve lit review and send to Grant
 
@@ -50,7 +50,7 @@ Work Done:
 --Thurday-18th-April--
 ----------------------
 
-To Do
+To Do:
 - Continued work on game
 
 Work Done:
@@ -85,14 +85,14 @@ https://freesound.org/people/freeicecream12@gmail.com/sounds/169209/
 --Friday-19th-April--
 ---------------------
 
-To Do
+To Do:
 - Add functionaliy for the game to track intensity and valence
 - Update the methods
 
 
 Work Done:
 - Wrote the methods for how the game effecs the music
-- FIGURED OUT WHY MUSIC SOUNDED RANDOM
+- FIGURED OUT WHY MUSIC SOUNDED SO RANDOM
 - Made it so the CleanUp() function only makes a rest if its length is above a specified number
 - Game controller now tracks the various variables to create the intensity and valence
 - Added UI outputs for these
@@ -103,17 +103,25 @@ Work Done:
 --Saturday-20th-April--
 ---------------------
 
-To Do
+To Do:
 - Add functionaliy for the intensity and valence to change to music
 - Update the methods
 
+Work Done:
+- Fixed bug where it was passing the wrong note to markov chain
+- Music controller can now change the music based on the intensity/valence
+- Started Questionaire
 
 
+---------------------
+--Sunday-21th-April--
+---------------------
 
+To Do:
+- Make the GameController updates the music controller on the intensity/valence
 
-
-
-
-
+Work Done:
+- GameController now updates the music controller on the intensity/valence
+- Music is now modified by the game, woop
 
 
